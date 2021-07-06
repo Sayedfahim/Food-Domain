@@ -61,3 +61,13 @@ p{
     margin-right: 200px;
     margin-top: 80px;
 }
+.third-section{
+    text-align: center;
+}
+.third-para{
+    width: 50%;
+    text-align: center;
+    margin-left: 25%;
+    text-align: justify;
+    
+}
