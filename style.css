@@ -7,7 +7,7 @@ h1{
     font-weight: 900;
 }
 h2{
-    font-size: 40px;
+    font-size: 30px;
 }
 p{
     text-align: justify;
@@ -31,7 +31,9 @@ p{
 .top-section{
     display: flex;
     margin-bottom: 100px;
-    margin-top: 50px;
+    
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
 }
 .button{
     text-decoration: none;
@@ -69,5 +71,37 @@ p{
     text-align: center;
     margin-left: 25%;
     text-align: justify;
+    margin-bottom: 100px;
+    
+}
+.flexer{
+    display: flex;
+    margin-bottom: 100px;
+}
+.last-section{
+    width: 30%;
+    margin-left: 8%;
+    margin-right: 5%;
+    padding-left: 1%;
+    padding-right: 1%;
+    box-shadow: 10px 15px 30px gray;
+    border-radius: 15px;
+}
+.Recipes{
+    width: auto;
+}
+.last-section img{
+    margin-top: 20px;
+    width: 100%;
+}
+footer{
+    background-image: url(images/7.png);
+    
+    text-align: center;
+    
+    
+}
+.footer-para{
+    text-align: center;
     
 }
