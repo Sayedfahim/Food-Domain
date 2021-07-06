@@ -100,6 +100,34 @@ p{
     margin-bottom: 50px;
     background-image: url(images/7.png);
 }
+.button1{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(0, 183, 255),rgb(89, 71, 255));
+    color: white;
+    font-weight: bold;
+    padding: 10px 30px;
+    border-radius: 5px;
+    
+}
+
+.button2{
+    text-decoration: none;
+    margin-right: 20px;
+    
+}
+.site{
+    text-align: center;
+}
+.para1{
+    text-align: center;
+    color: darkblue;
+    
+}
+.site-section{
+    background-image: url(images/bg.jpg);
+    
+}
+
 
 footer{
     background-image: url(images/1397755.jpg);
