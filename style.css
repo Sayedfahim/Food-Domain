@@ -93,15 +93,22 @@ p{
 .last-section img{
     margin-top: 20px;
     width: 100%;
+    margin-bottom: 20px;
 }
-footer{
+.margin-left{
+    text-align: center;
+    margin-bottom: 50px;
     background-image: url(images/7.png);
-    
+}
+
+footer{
+    background-image: url(images/1397755.jpg);
+    color: cornsilk;
     text-align: center;
     
     
 }
 .footer-para{
     text-align: center;
-    
+    color: cornsilk;
 }
